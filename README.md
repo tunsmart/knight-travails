@@ -1,1 +1,2 @@
 # knight-travails
+This was a challenging TOP project for me to implement. I spent about 3 days on this with aleast 2 days of thinking and planning. Eventually, following the fantastic Khan Academy tutorials on Algorithm, I was able to implement the legal Knight moves from one square to another as edges of an undirected graph in an adjacent list. Then I used a breadth first search algorithm to search the list for the shortest path from one square to another. 
